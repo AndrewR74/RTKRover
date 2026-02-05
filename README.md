@@ -1,5 +1,6 @@
-#Components Required
+# Components Required
 [Arduino Nano ESP32](https://www.amazon.com/dp/B0C947BHK5?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4&th=1)
+
 [RTK Module w/t Antenna](https://www.amazon.com/dp/B0G3PLKT69?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
 
 # NTRIP Setup
