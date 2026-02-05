@@ -3,6 +3,10 @@
 
 [RTK Module w/t Antenna](https://www.amazon.com/dp/B0G3PLKT69?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
 
+[Tripod](https://a.co/d/00Bj14sZ) - Optional
+
+[Phone mount](https://a.co/d/02GpWcwg) - Optional
+
 # NTRIP Setup
 New York only - Register for a Network Connections & RINEX Products from NY CORS NTRIP (it is free, but they need to approve you). 
 Alternatively, check out https://rtk2go.com for [base stations that are hosted by the community. ](http://rtk2go.com:2101/SNIP::STATUS)
