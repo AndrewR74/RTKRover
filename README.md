@@ -9,6 +9,7 @@
 
 # NTRIP Setup
 New York only - Register for a Network Connections & RINEX Products from NY CORS NTRIP (it is free, but they need to approve you). 
+
 Alternatively, check out https://rtk2go.com for [base stations that are hosted by the community. ](http://rtk2go.com:2101/SNIP::STATUS)
 
 # Wiring
